@@ -1,24 +1,6 @@
-# vue3-todo-app
+# vue3 を触ってみたリポ
 
-## Project setup
-```
-npm install
-```
+参考 ↓
+https://zenn.dev/azukiazusa/articles/aacff94e249bcf
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+現状は作成のところまで
